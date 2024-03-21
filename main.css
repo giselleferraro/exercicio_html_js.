@@ -41,13 +41,16 @@ button:hover {
 }
 
 .mensagem-de-sucesso {
+    display: none;
     background-color: #63cc4f;
     padding: 16px;
     color: #000000;
 }
 
 .mensagem-de-erro{
+    display: none;
     background-color: red;
     padding: 16px;
     color: #000000;
 }
+
